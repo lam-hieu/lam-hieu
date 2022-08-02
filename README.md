@@ -68,7 +68,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="#" target="blank">
-    <img width="90" height="90" src="images/logo-H-4-01.png" alt="lam-hieu" />
+    <img width="90" height="90" src="images/logo-H.png" alt="lam-hieu" />
   </a>
   <a href="https://www.facebook.com/lam.hieu.lth/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="lam-hieu-facebook" />
@@ -80,11 +80,12 @@
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="lam-hieu-linkedin" />
   </a>
   <!-- <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="lam-hieu-instagram" />
+    <img src="https://img.icons8.com/clouds/100/000000/cld_zalo.png" alt="lam-hieu-instagram" />
   </a> -->
   <a href="mailto:lamtrunghieu.lth@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="lam-hieu-email" />
   </a>
+
 </div>
 
 <br>
