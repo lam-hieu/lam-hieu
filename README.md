@@ -1,4 +1,4 @@
-<!-- Src from: Trungquandev -->
+
 <a href="#" target="_blank">
   <img src="svg/lam-hieu.svg" width="1200" alt="Lam-Hieu" />
 </a>
